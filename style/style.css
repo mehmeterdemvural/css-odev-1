@@ -1,3 +1,14 @@
 body {
     background-color: #F3E9DD;
+    list-style-position: inside;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #DAB88B;
+}
+  
+li {
+    display: inline;
 }
